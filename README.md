@@ -3,7 +3,7 @@ Encrypt and Decrypt data and passwords using a secret key.
 
 
 ## Encoding process
-take input string from user
+- take input string from user
 </br>
 encode the input string to base64
 </br>
